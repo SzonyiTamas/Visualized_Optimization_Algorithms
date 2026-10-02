@@ -48,4 +48,4 @@ JavaScript (ES6+), HTML5 Canvas
 
 ## Author
 
-Tamás Szőnyi
+**Tamás Szőnyi**
